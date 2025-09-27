@@ -7,3 +7,4 @@ You can view the interactive prototype here: [Prototype Link](https://www.figma.
 
 ## Files
 - All design frames are exported in PNG/SVG format in the `/Task 2` folder.
+.
